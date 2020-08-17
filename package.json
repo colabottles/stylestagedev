@@ -1,0 +1,12 @@
+{
+  "name": "stylestage",
+  "version": "1.0.0",
+  "description": "Blueprint theme for Style Stage",
+  "main": "index.js",
+  "repository": "https://github.com/colabottles/stylestagedev.git",
+  "author": "Todd Libby <toddlibby@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.44.1"
+  }
+}
