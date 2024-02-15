@@ -7,6 +7,6 @@
   "author": "Todd Libby <toddlibby@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "webpack": "^5.75.0"
+    "webpack": "^5.90.1"
   }
 }
