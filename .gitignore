@@ -1,0 +1,6 @@
+## VS Code
+settings.json
+*.code-workspace
+
+## folders
+node_modules
